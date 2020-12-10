@@ -30,19 +30,23 @@ client.login('Your bot's token')
 
 ## Options
 djEcoXP supports many options that are listed here:
+
 Non-Optional Options:
-* connect(client),
-* levelsConnect(client),
+
+* connect(client)
+* levelsConnect(client)
+
 Optional Options:
-* addCoins(userId, coinsToAdd),
-* getCoins(userId),
-* removeCoins(userId, coinsToRemove),
-* getItems(userId),
-* addItems(userId, itemsToAdd, itemNumber),
-* removeItems(userId, itemsToRemove),
-* getLevels(guildId, userId),
-* defaultXpPerMessage(value),
-* defaultLevelUpMessage(value),
+
+* addCoins(userId, coinsToAdd)
+* getCoins(userId)
+* removeCoins(userId, coinsToRemove)
+* getItems(userId)
+* addItems(userId, itemsToAdd, itemNumber)
+* removeItems(userId, itemsToRemove)
+* getLevels(guildId, userId)
+* defaultXpPerMessage(value)
+* defaultLevelUpMessage(value)
 * defaultCoins(value)
 
 # Information
@@ -50,4 +54,10 @@ Optional Options:
 This is in a beta version and may not work as intended.
 
 I make discord bots check one of mine out!
+
+
+
+
+
+
 [![Discord Bots](https://top.gg/api/widget/777542064333520946.svg)](https://top.gg/bot/777542064333520946)

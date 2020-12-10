@@ -10,5 +10,21 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.11.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJMadcopp33-github/djEcoXP.git"
+  },
+  "keywords": [
+    "discord.js",
+    "economy",
+    "level",
+    "mongoose",
+    "mongodb"
+  ],
+  "bugs": {
+    "url": "https://github.com/DJMadcopp33-github/djEcoXP/issues"
+  },
+  "homepage": "https://github.com/DJMadcopp33-github/djEcoXP#readme"
 }
